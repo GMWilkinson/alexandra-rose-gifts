@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/alexandra-rose-gifts/static/css/main.cf24d563.chunk.css",
-    "main.js": "/alexandra-rose-gifts/static/js/main.f90f808f.chunk.js",
-    "main.js.map": "/alexandra-rose-gifts/static/js/main.f90f808f.chunk.js.map",
+    "main.js": "/alexandra-rose-gifts/static/js/main.6729aa06.chunk.js",
+    "main.js.map": "/alexandra-rose-gifts/static/js/main.6729aa06.chunk.js.map",
     "runtime-main.js": "/alexandra-rose-gifts/static/js/runtime-main.0a92d717.js",
     "runtime-main.js.map": "/alexandra-rose-gifts/static/js/runtime-main.0a92d717.js.map",
     "static/css/2.af3c1da9.chunk.css": "/alexandra-rose-gifts/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.55548c33.chunk.js": "/alexandra-rose-gifts/static/js/2.55548c33.chunk.js",
-    "static/js/2.55548c33.chunk.js.map": "/alexandra-rose-gifts/static/js/2.55548c33.chunk.js.map",
+    "static/js/2.e6c0f5ee.chunk.js": "/alexandra-rose-gifts/static/js/2.e6c0f5ee.chunk.js",
+    "static/js/2.e6c0f5ee.chunk.js.map": "/alexandra-rose-gifts/static/js/2.e6c0f5ee.chunk.js.map",
     "index.html": "/alexandra-rose-gifts/index.html",
-    "precache-manifest.9e90c861258fd37669b015cb7083f7b5.js": "/alexandra-rose-gifts/precache-manifest.9e90c861258fd37669b015cb7083f7b5.js",
+    "precache-manifest.d093ead6cb04995966d310916b5970d3.js": "/alexandra-rose-gifts/precache-manifest.d093ead6cb04995966d310916b5970d3.js",
     "service-worker.js": "/alexandra-rose-gifts/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/alexandra-rose-gifts/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.cf24d563.chunk.css.map": "/alexandra-rose-gifts/static/css/main.cf24d563.chunk.css.map",
-    "static/js/2.55548c33.chunk.js.LICENSE.txt": "/alexandra-rose-gifts/static/js/2.55548c33.chunk.js.LICENSE.txt",
+    "static/js/2.e6c0f5ee.chunk.js.LICENSE.txt": "/alexandra-rose-gifts/static/js/2.e6c0f5ee.chunk.js.LICENSE.txt",
     "static/media/ARG-logo-text.png": "/alexandra-rose-gifts/static/media/ARG-logo-text.14025176.png",
     "static/media/App.css": "/alexandra-rose-gifts/static/media/ARG-logo.a568614e.png",
     "static/media/index.css": "/alexandra-rose-gifts/static/media/Unicorn-Calligraphy-TTF.aef63819.ttf"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.0a92d717.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.55548c33.chunk.js",
+    "static/js/2.e6c0f5ee.chunk.js",
     "static/css/main.cf24d563.chunk.css",
-    "static/js/main.f90f808f.chunk.js"
+    "static/js/main.6729aa06.chunk.js"
   ]
 }
