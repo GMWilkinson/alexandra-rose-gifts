@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alexandra-rose-gifts/precache-manifest.aaa51c8298295e8a98de77077422032a.js"
+  "/alexandra-rose-gifts/precache-manifest.2931ec21764036f5d5634f673a421b76.js"
 );
 
 self.addEventListener('message', (event) => {
