@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d02cf06f912e12d44e36f10208b10b8",
+    "revision": "07f9c612f75496b77a7d54f93009ae46",
     "url": "/alexandra-rose-gifts/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexandra-rose-gifts/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "230f517bc7f7b3a39162",
+    "revision": "88c5e1aa1d7c21e54dc0",
     "url": "/alexandra-rose-gifts/static/css/main.6a1ed84f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alexandra-rose-gifts/static/js/2.8b7f4120.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "230f517bc7f7b3a39162",
-    "url": "/alexandra-rose-gifts/static/js/main.0554103e.chunk.js"
+    "revision": "88c5e1aa1d7c21e54dc0",
+    "url": "/alexandra-rose-gifts/static/js/main.a0ee1ad3.chunk.js"
   },
   {
     "revision": "a0bd099201b72ad7ff0b",
