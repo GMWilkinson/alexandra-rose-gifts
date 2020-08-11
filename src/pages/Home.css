@@ -1,0 +1,49 @@
+section {
+    padding: 1rem;
+}
+.card {
+    margin-bottom: 1rem;
+}
+.card:hover {
+    cursor: pointer;
+}
+.home-images {
+    max-height: 200px;
+    object-fit: cover;
+    background-color: #e7bca4;
+    height: 100%;
+    width: 100%;
+}
+.card-body {
+    background-color: #e7bca4;
+    color: white;
+}
+.home-nav {
+    background-color: #e7bca4;
+    width: 100%;
+}
+.home-ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.description-text {
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+li.nav-item {
+    cursor: pointer;
+    color: white;
+}
+li.nav-item:hover {
+    color: #999999
+}
+.search-bar {
+    padding: 2rem 1rem 1rem 1rem;
+}
+.input-group-text {
+    background-color: #e7bca4 !important;
+    color: white !important;
+}

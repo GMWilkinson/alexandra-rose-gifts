@@ -1,0 +1,110 @@
+.page-show {
+    color: #e7bca4
+}
+
+.show-img {
+    width: 100%;
+    border: 3px solid #e7bca4;
+}
+
+.columns {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.lower {
+    justify-content: space-around;
+}
+.color-row {
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.lower-row {
+    padding-top: 2rem;
+}
+.cart {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+h1 {
+    padding: 1.5rem;
+}
+
+h1, h3 {
+    text-align: center;
+    font-weight: 700!important;
+}
+
+.info-box {
+    text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 1rem;
+}
+
+.left-box {
+    display: flex;
+    flex-direction: column;
+}
+.form-control {
+    border: 2px solid #e7bca4 !important;
+}
+.text-box {
+    height: 250px;
+    justify-content: center;
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border: 2px solid #e7bca4;
+    background-color: #dddddd;
+    font-size: 50px;
+}
+
+.themed-container div.row {
+    flex-wrap: wrap-reverse;
+}
+
+.lists {
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn-secondary.add-to-cart-button {
+    background: #e7bca4;
+    /* height: 3rem; */
+}
+
+.summary {
+    border: 2px solid #dddddd;
+    padding: 1rem;
+}
+
+.autumn {
+    font-family: 'Autumn-in-November';
+}
+.bold {
+    font-family: 'Bold-&-Stylish-Calligraphy';
+}
+.flower-shop {
+    font-family: 'Flower-Shop-TTF';
+}
+.janda {
+    font-family: 'JandaSwirlyTwirly';
+}
+.lumberjack {
+    font-family: 'Lumberjack-Regular';
+}
+.october {
+    font-family: 'October-Twilight';
+}
+.july {
+    font-family: 'OhMyItsJuly-TTF';
+}
+.unicorn {
+    font-family: 'Unicorn-Calligraphy-TTF';
+}

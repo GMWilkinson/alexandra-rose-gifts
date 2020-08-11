@@ -1,0 +1,12 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #e7bca4;
+    margin-top: 2rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(#e7bca4, #e7bca4, white);
+}

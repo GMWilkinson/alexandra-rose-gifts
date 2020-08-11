@@ -1,0 +1,24 @@
+div.jumbotron {
+    margin-bottom: 0;
+    padding: .3rem 2rem;
+    background-image: linear-gradient(#e7bca4, #e7bca4, #e7bca4, rgba(255, 255, 255, 1));
+}
+
+nav {
+    background-color: rgba(255, 255, 255, 1);
+    color: #e7bca4;
+    font-weight: bold;
+}
+.nav-links {
+    color: #e7bca4;
+    padding: 1rem;
+}
+.nav-links:hover {
+    color: #999999;
+}
+
+@media(max-width: 850px) {
+    .logo {
+        display: none;
+    }
+}

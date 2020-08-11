@@ -1,3 +1,36 @@
+@font-face {
+  font-family: 'Autumn-in-November';
+  src: local('Autumn-in-November'), url(./fonts/Autumn-in-November.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bold-&-Stylish-Calligraphy';
+  src: local('Bold-&-Stylish-Calligraphy'), url(./fonts/Bold-&-Stylish-Calligraphy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Flower-Shop-TTF';
+  src: local('Flower-Shop-TTF'), url(./fonts/Flower-Shop-TTF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'JandaSwirlyTwirly';
+  src: local('JandaSwirlyTwirly'), url(./fonts/JandaSwirlyTwirly.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lumberjack-Regular';
+  src: local('Lumberjack-Regular'), url(./fonts/Lumberjack-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'October-Twilight';
+  src: local('October-Twilight'), url(./fonts/October-Twilight.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'OhMyItsJuly-TTF';
+  src: local('OhMyItsJuly-TTF'), url(./fonts/OhMyItsJuly-TTF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Unicorn-Calligraphy-TTF';
+  src: local('Unicorn-Calligraphy-TTF'), url(./fonts/Unicorn-Calligraphy-TTF.ttf) format('truetype');
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
